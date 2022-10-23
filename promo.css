@@ -1,0 +1,60 @@
+#promo {
+    height: 45%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    display: inline-block;
+    border: whitesmoke 5px solid;
+}
+#promoblur {
+    height: 45%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    display: none;
+    border: whitesmoke 5px solid;
+}
+#apromo:hover #promoblur{
+    height: 45%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    display: inline-block;
+    border: whitesmoke 5px solid;
+}
+#apromo:hover #promo{
+    height: 45%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    display: none;
+    border: whitesmoke 5px solid;
+}
+#promo1 {
+    margin-left: 4%;
+    height: 45%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    display: inline-block;
+    border: whitesmoke 5px solid;
+}
+#promo1blur {
+    margin-left: 4%;
+    height: 45%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    display: none;
+    border: whitesmoke 5px solid;
+}
+#apromo1:hover #promo1blur{
+    margin-left: 4%;
+    height: 45%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    display: inline-block;
+    border: whitesmoke 5px solid;
+}
+#apromo1:hover #promo1{
+    margin-left: 4%;
+    height: 45%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    display: none;
+    border: whitesmoke 5px solid;
+}
