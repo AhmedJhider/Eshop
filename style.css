@@ -111,7 +111,7 @@ a {
 
 
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 1125px) {
     #promoblur {
         height: 25%;
         margin-top: 0.5%;
