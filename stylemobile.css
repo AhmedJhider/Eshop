@@ -67,4 +67,7 @@
         display: none;
         border: rgb(145, 145, 145) 5px solid;
     }
+    .images {
+        height: 120;
+        width: 200;
 }
