@@ -45,14 +45,10 @@
     }
     .tdpromo {
         text-align: center;
-        height: 48;
-        width: 200px;
-    }
-    .tdpromo1 {
-        text-align: center;
-        height: 48;
+        height: 48px;
         width: 200px;
         color: black;
+
     }
     #button {
         width: 100%;
