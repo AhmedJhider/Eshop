@@ -1,14 +1,14 @@
-@media (max-width: 1125px) {
+@media (max-width: 1115px) {
     #promo {
-        height: 55%;
+        height: 10%;
         width: 60%;
         margin-top: 0.5%;
         margin-bottom: 0.5%;
         display: inline-block;
-        border: whitesmoke 5px solid;
+        border: whitesmoke 5px solid;t
     }
     #promoblur {
-        height: 55%;
+        height: 10%;
         width: 60%;
         margin-top: 0.5%;
         margin-bottom: 0.5%;
@@ -16,7 +16,7 @@
         border: whitesmoke 5px solid;
     }
     #apromo:hover #promoblur{
-        height: 55%;
+        height: 10%;
         width: 60%;
         margin-top: 0.5%;
         margin-bottom: 0.5%;
@@ -24,7 +24,7 @@
         border: whitesmoke 5px solid;
     }
     #apromo:hover #promo{
-        height: 55%;
+        height: 10%;
         width: 60%;
         margin-top: 0.5%;
         margin-bottom: 0.5%;
@@ -33,7 +33,7 @@
     }
     #promo1 {
         margin-left: 1%;
-        height: 55%;
+        height: 10%;
         width: 15%;
         margin-top: 0.5%;
         margin-bottom: 0.5%;
@@ -42,7 +42,7 @@
     }
     #promo1blur {
         margin-left: 1%;
-        height: 55%;
+        height: 10%;
         width: 15%;
         margin-top: 0.5%;
         margin-bottom: 0.5%;
@@ -51,7 +51,7 @@
     }
     #apromo1:hover #promo1blur{
         margin-left: 1%;
-        height: 55%;
+        height: 10%;
         width: 15%;
         margin-top: 0.5%;
         margin-bottom: 0.5%;
@@ -60,11 +60,11 @@
     }
     #apromo1:hover #promo1{
         margin-left: 1%;
-        height: 55%;
+        height: 10%;
         width: 15%;
         margin-top: 0.5%;
         margin-bottom: 0.5%;
         display: none;
-        border: rgb(245, 245, 245) 5px solid;
+        border: rgb(145, 145, 145) 5px solid;
     }
 }
