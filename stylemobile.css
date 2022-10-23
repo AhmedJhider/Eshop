@@ -1,4 +1,4 @@
-@media only screen and (max-device-width: 480px) {
+@media (max-width: 1200px) {
     #promoblur {
         height: 25%;
         margin-top: 0.5%;
