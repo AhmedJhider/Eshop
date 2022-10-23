@@ -3,6 +3,7 @@
         height: 10%;
         width: 60%;
         margin-top: 0.5%;
+        vertical-align: 10%;
         margin-bottom: 0.5%;
         display: inline-block;
         border: whitesmoke 5px solid;t
@@ -11,6 +12,7 @@
         height: 10%;
         width: 60%;
         margin-top: 0.5%;
+        vertical-align: 10%;
         margin-bottom: 0.5%;
         display: none;
         border: whitesmoke 5px solid;
@@ -19,6 +21,7 @@
         height: 10%;
         width: 60%;
         margin-top: 0.5%;
+        vertical-align: 10%;
         margin-bottom: 0.5%;
         display: inline-block;
         border: whitesmoke 5px solid;
@@ -27,6 +30,7 @@
         height: 10%;
         width: 60%;
         margin-top: 0.5%;
+        vertical-align: 10%;
         margin-bottom: 0.5%;
         display: none;
         border: whitesmoke 5px solid;
@@ -68,6 +72,6 @@
         border: rgb(145, 145, 145) 5px solid;
     }
     .images {
-        height: 120;
-        width: 120;
+        height: 140;
+        width: 140;
 }
