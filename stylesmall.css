@@ -67,4 +67,12 @@
         display: none;
         border: rgb(245, 245, 245) 5px solid;
     }
+    .images {
+        height: 178;
+        width: 250;
+        
+    }
+    .images:hover {
+        opacity: 0.5;
+    }
 }
