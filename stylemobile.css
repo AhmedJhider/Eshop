@@ -40,7 +40,7 @@
     }
     #tablepromo {
         display: block;
-        margin-left: 1%;
+        margin-left: 3%;
         margin-right: auto;    
     }
     .tdpromo {
@@ -56,6 +56,7 @@
         font-size: 26px;
         background: whitesmoke;
         font-weight: bold;
+        color: black;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
     #button:hover {
@@ -102,9 +103,9 @@
     #promo {
         height: 10%;
         width: 60%;
-        margin-top: 0.5%;
+        margin-top: 1%;
         margin-bottom: 1%;
-        margin-left: auto;
+        margin-left: 10%;
         margin-right: auto;
         display: inline-block;
         border: whitesmoke 5px solid;
@@ -112,9 +113,9 @@
     #promoblur {
         height: 10%;
         width: 60%;
-        margin-top: 0.5%;
+        margin-top: 1%;
         margin-bottom: 1%;
-        margin-left: auto;
+        margin-left: 10%;
         margin-right: auto;
         display: none;
         border: whitesmoke 5px solid;
@@ -122,9 +123,9 @@
     #apromo:hover #promoblur{
         height: 10%;
         width: 60%;
-        margin-top: 0.5%;
+        margin-top: 1%;
         margin-bottom: 1%;
-        margin-left: auto;
+        margin-left: 10%;
         margin-right: auto;
         display: inline-block;
         border: whitesmoke 5px solid;
@@ -132,9 +133,9 @@
     #apromo:hover #promo{
         height: 10%;
         width: 60%;
-        margin-top: 0.5%;
+        margin-top: 1%;
         margin-bottom: 1%;
-        margin-left: auto;
+        margin-left: 10%;
         margin-right: auto;
         display: none;
         border: whitesmoke 5px solid;
@@ -143,8 +144,8 @@
         margin-left: 1%;
         height: 10%;
         width: 15%;
-        margin-top: 0.5%;
-        margin-bottom: 0.5%;
+        margin-top: 1%;
+        margin-bottom: 1%;
         display: inline-block;
         border: whitesmoke 5px solid;
     }
@@ -152,8 +153,8 @@
         margin-left: 1%;
         height: 10%;
         width: 15%;
-        margin-top: 0.5%;
-        margin-bottom: 0.5%;
+        margin-top: 1%;
+        margin-bottom: 1%;
         display: none;
         border: whitesmoke 5px solid;
     }
@@ -161,8 +162,8 @@
         margin-left: 1%;
         height: 10%;
         width: 15%;
-        margin-top: 0.5%;
-        margin-bottom: 0.5%;
+        margin-top: 1%;
+        margin-bottom: 1%;
         display: inline-block;
         border: whitesmoke 5px solid;
     }
@@ -170,8 +171,8 @@
         margin-left: 1%;
         height: 10%;
         width: 15%;
-        margin-top: 0.5%;
-        margin-bottom: 0.5%;
+        margin-top: 1%;
+        margin-bottom: 1%;
         display: none;
         border: rgb(145, 145, 145) 5px solid;
     }
