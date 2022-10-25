@@ -189,6 +189,6 @@ a {
     display: none;
     border: rgb(245, 245, 245) 5px solid;
 }
-.images:hover .images{
+.images:hover {
     opacity: 0.5;
 }

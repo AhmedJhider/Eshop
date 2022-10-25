@@ -12,10 +12,11 @@
  }
 #band3 {
     background: rgb(158, 14, 14);
-    height: auto;
+    height: 40px;
     width: auto;
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: 2%;
 }
 #band4 {
     background: lightgray;
@@ -35,7 +36,14 @@
     font-weight: bold;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: left;
+    margin-left: 1%;
+    display: inline;
+}
+#back {
+    display: inline;
+    width: 25px;
     margin-left: 2%;
+    vertical-align: -5px;
 }
 h1 {
     text-align: center;
